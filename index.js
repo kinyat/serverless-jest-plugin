@@ -77,10 +77,6 @@ class ServerlessJestPlugin {
               path: {
                 usage: 'Path for the tests for running tests in other than default "test" folder',
               },
-              'jest-cli-options': {
-                usage: 'Options for jest cli',
-                shortcut: 'j',
-              },
             },
           },
         },
